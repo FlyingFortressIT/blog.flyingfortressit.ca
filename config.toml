@@ -1,0 +1,34 @@
+baseurl = "https://blog.flyingfortressit.ca"
+theme = "hugo-redlounge"
+paginate = 3
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+uglyurls = true
+
+[params]
+  sidebartitle1 = "FLYING"
+  sidebartitle2 = "FORTRESS IT"
+  sidebarphoto = "/images/logo.svg"
+  copyright = "Flying Fortress IT 2017"
+  gaid = "{{GA_TRACKING_ID}}"
+  uglyurls = true
+
+[[menu.main]]
+    name = "Main Site"
+    url = "https://www.flyingfortressit.ca"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+
+[[menu.social]]
+	pre = "<i class='fa fa-github'></i>"
+    url = "http://www.github.com/flyingfortressit"
+    identifier = "github"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+title = "Flying Fortress IT Blog"
