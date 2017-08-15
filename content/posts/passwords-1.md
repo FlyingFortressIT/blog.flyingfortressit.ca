@@ -53,7 +53,7 @@ The good news is that there a few resources out there that seem to 'get it'. One
 
 ![Password Strength](https://imgs.xkcd.com/comics/password_strength.png)
 
-He goes on to suggest a method of choosing passwords that seems to solve both the problems of strength and memorability. Basically, choose 4 common, **random**, English words, and string them together. The resulting password is long enough to be strong without the addition of special characters, or even upper case letters. Finally, he demonstrates that the use of common words, even randomly put together, can be used to make help mnemonics. In fact, the absurdity of a horse correctly discussing a battery staple makes it even easier to remember.
+He goes on to suggest a method of choosing passwords that seems to solve both the problems of strength and memorability. Basically, choose 4 common, **random**, English words, and string them together. The resulting password is long enough to be strong without the addition of special characters, or even upper case letters. Finally, he demonstrates that the use of common words, even randomly put together, can be used to make helpful mnemonics. In fact, the absurdity of a horse correctly discussing a battery staple makes it even easier to remember.
 
 If you need help choosing a such a password, there are [several sites](http://preshing.com/20110811/xkcd-password-generator/) that will generate one for you. 
 
