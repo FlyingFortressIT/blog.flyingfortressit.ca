@@ -4,6 +4,17 @@ This represents the blog content for FFIT, rendered live for your reading at htt
 
 This blog is built using Hugo, and all raw blog content source is stored here as part of the deployment pipeline.
 
+## Setup
+
+Clone the repo, then you need to initialize the submodule (theme) with
+
+```
+git submodule init
+git submodule update
+```
+
+You'll also need to get a local install of Hugo. You can follow the installation instructions on the [Hugo GitHub readme](https://github.com/gohugoio/hugo#choose-how-to-install), or you can get it from the Ubuntu/Debian repos (it's called `hugo`).
+
 ## Posts
 
 Posts are kept here, and are created with something like:
