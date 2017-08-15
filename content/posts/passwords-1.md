@@ -1,13 +1,14 @@
 ---
-title: All About Passwords: Part 1
+title: "All About Passwords: Part 1"
 subtitle: Choosing a Good Password
+date: 2017-08-15T20:31:50-05:00
 author: Travis Friesen
 categories:
-	- Security
-	- Passwords
+   - Security
+   - Passwords
 tags:
-	- Security
-	- Passwords
+   - Security
+   - Passwords
 ---
 
 For the first post in my series on passwords, I'm going to discuss some methods for choosing good, strong passwords that are still easy to remember.
@@ -16,7 +17,7 @@ For the first post in my series on passwords, I'm going to discuss some methods 
 
 It is only fitting that my first set of articles on security revolve around passwords. Passwords have been with us for centuries, since long before computers were around, and despite attempts to kill passwords with various new techniques and approaches, they will remain a cornerstone of digital security for many, many years to come, maybe forever. They are the most basic and the most obvious way that security touches the day-to-day lives of every user.
 
-A typical article or series of articles on security follows a general patter: we would discuss the nature of the problem, show why its important, maybe how to exploit it, why existing approaches are no good, and THEN present the solution at the end. But this time, I felt that letting people know what the solution is from the get-go has much more value. The sooner I give you the tools to improve your personal or corporate security, the better. That way, as soon as you are convinced of the issue, you can take appropriate steps to improve the situation. On top of that, many people are already aware that their approach to how they handle passwords is... inadequate.
+A typical article or series of articles on security follows a general pattern: we would discuss the nature of the problem, show why it's important, maybe how to exploit it, why existing approaches are no good, and THEN present the solution at the end. But this time, I felt that letting people know what the solution is from the get-go has much more value. The sooner I give you the tools to improve your personal or corporate security, the better. That way, as soon as you are convinced of the issue, you can take appropriate steps to improve the situation. On top of that, many people are already aware that their approach to how they handle passwords is... inadequate.
 
 ## Good and Bad Passwords
 
@@ -48,7 +49,7 @@ Part of the problem is that whenever passwords are memorable, they are also usua
 
 ### The xkcd method and the correctness of the battery staple, horse.
 
-The good news is that there a few resources out there that seem to 'get it'. One of the most popular methods of generating strong, memorable passwords was proposed by Randall Munroe, author of the popular webcomic pxkcd](https://xkcd.com). In that particular comment, below, Mr. Munroe correctly points out that a generally-accepted 'strong' passwords, in this case 'Tr0ub4dor&3', is very difficult to remember, without being particularly strong. I would quibble with some of his math, with how he estimates password strength, but the idea is still sound.
+The good news is that there a few resources out there that seem to 'get it'. One of the most popular methods of generating strong, memorable passwords was proposed by Randall Munroe, author of the popular webcomic [xkcd](https://xkcd.com). In that particular comment, below, Mr. Munroe correctly points out that a generally-accepted 'strong' passwords, in this case 'Tr0ub4dor&3', is very difficult to remember, without being particularly strong. I would quibble with some of his math, with how he estimates password strength, but the idea is still sound.
 
 ![Password Strength](https://imgs.xkcd.com/comics/password_strength.png)
 
@@ -72,7 +73,7 @@ My favourite example he uses: "When I was seven, my sister threw my stuffed rabb
 
 It is worth emphasizing that the phrase should be particular to you, and generally not related to whatever you're using the password for. Don't use popular phrases like "You only live once", or lines from well-known literature or movies. 
 
-
+## Coming Up
 
 So there you have it. I've provided you with not one, but two methods for choosing good passwords - no more excuses for 'Password123'. In the next article in the series, I'm going to give even better news: you really only need to remember 3-4 passwords, so you can afford to make them super-strong. How can you accomplish this? Stay tuned... (password safes. I'm going to talk about password safes.)
 
