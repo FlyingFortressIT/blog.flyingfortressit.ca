@@ -13,6 +13,7 @@ uglyurls = true
   copyright = "Flying Fortress IT 2017"
   gaid = "{{GA_TRACKING_ID}}"
   uglyurls = true
+  sitetype = "blog"
 
 [[menu.main]]
     name = "Main Site"
