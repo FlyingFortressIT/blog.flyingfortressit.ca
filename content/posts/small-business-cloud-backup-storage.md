@@ -38,7 +38,7 @@ What might you want to do with your data?
 
 - I want to store data durably in a second, off-site, location and only intend to access it in the event of a major loss (long <a href="https://en.wikipedia.org/wiki/Recovery_time_objective" target="_blank">RTO</a>).
 - I want to store data durably in a second, off-site, location and intend to access it frequently.
-- I want to store more data than I have capacity on-premise, an want to use an external provider to handle the extra that I don't access often.
+- I want to store more data than I have capacity on-premise, and want to use an external provider to handle the extra that I don't access often.
 - I want to be able to share portions of the data.
 - I want to be able to perform computation or other actions on the data (using on-premise or other compute resources).
 - I want detailed audit and access logs protecting my data.
