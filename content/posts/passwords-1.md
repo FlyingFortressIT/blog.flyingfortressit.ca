@@ -17,7 +17,7 @@ For the first post in my series on passwords, I'm going to discuss some methods 
 
 It is only fitting that my first set of articles on security revolve around passwords. Passwords have been with us for centuries, since long before computers were around, and despite attempts to kill passwords with various new techniques and approaches, they will remain a cornerstone of digital security for many, many years to come, maybe forever. They are the most basic and the most obvious way that security touches the day-to-day lives of every user.
 
-A typical article or series of articles on security follows a general pattern: we would discuss the nature of the problem, show why it's important, maybe how to exploit it, why existing approaches are no good, and THEN present the solution at the end. But this time, I felt that letting people know what the solution is from the get-go has much more value. The sooner I give you the tools to improve your personal or corporate security, the better. That way, as soon as you are convinced of the issue, you can take appropriate steps to improve the situation. On top of that, many people are already aware that their approach to how they handle passwords is... inadequate.
+A typical article or series of articles on security follows a general pattern: we would discuss the nature of the problem, show why it's important, maybe how to exploit it, why existing approaches are no good, and *then* present the solution at the end. But this time, I felt that letting people know what the solution is from the get-go has much more value. The sooner I give you the tools to improve your personal or corporate security, the better. That way, as soon as you are convinced of the issue, you can take appropriate steps to improve the situation. On top of that, many people are already aware that their approach to how they handle passwords is... inadequate.
 
 ## Good and Bad Passwords
 
@@ -33,7 +33,7 @@ For example, Password Meter rates the 8-character password '1Abcdef!' at 52%, or
 
 These three rules are the most important factors in the strength of passwords.
 
-There are also websites which purport to help you choose strong passwords, such as [Dino Pass])http://www.dinopass.com/) (which you may note does not use encrypted communication, but that is for another day). While Dino Pass is aimed at children, I think it is fair to hold to the standard for adults; if it's not good enough for our own security needs, it's not good enough for our children's, either.
+There are also websites which purport to help you choose strong passwords, such as [Dino Pass](http://www.dinopass.com/) (which you may note does not use encrypted communication, but that is for another day). While Dino Pass is aimed at children, I think it is fair to hold to the standard for adults; if it's not good enough for our own security needs, it's not good enough for our children's, either.
 
 Dino Pass, and other password generators like it, make many of the same mistakes as the out-of-date password strength meters. A focus on passwords that are too short and fall into typical patterns. After generating a few simple passwords, it should be obvious what pattern Dino Pass uses; an adjective, such as 'swift', followed by a common noun, such as 'road', and then two random digits, such as '90', making for a password of 'swiftroad90'. This password is bad on many accounts. While its length, at 12 characters, isn't terrible, it follows too common of a pattern: just two common English words, plus two numbers, which are at the end. In addition, if an attacker knows that you or your organization uses Dino Pass, he or she can further reduce the attack space by limiting guesses to <adjective><noun><two digits>.
 
@@ -49,7 +49,7 @@ Part of the problem is that whenever passwords are memorable, they are also usua
 
 ### The xkcd method and the correctness of the battery staple, horse.
 
-The good news is that there a few resources out there that seem to 'get it'. One of the most popular methods of generating strong, memorable passwords was proposed by Randall Munroe, author of the popular webcomic [xkcd](https://xkcd.com). In that particular comment, below, Mr. Munroe correctly points out that a generally-accepted 'strong' passwords, in this case 'Tr0ub4dor&3', is very difficult to remember, without being particularly strong. I would quibble with some of his math, with how he estimates password strength, but the idea is still sound.
+The good news is that there a few resources out there that seem to 'get it'. One of the most popular methods of generating strong, memorable passwords was proposed by Randall Munroe, author of the popular webcomic [xkcd](https://xkcd.com). In that particular comment, below, Mr. Munroe correctly points out that a generally-accepted 'strong' password, in this case 'Tr0ub4dor&3', is very difficult to remember, without being particularly strong. I would quibble with some of his math, with how he estimates password strength, but the idea is still sound.
 
 ![Password Strength](https://imgs.xkcd.com/comics/password_strength.png)
 
@@ -57,7 +57,7 @@ He goes on to suggest a method of choosing passwords that seems to solve both th
 
 If you need help choosing a such a password, there are [several sites](http://preshing.com/20110811/xkcd-password-generator/) that will generate one for you. 
 
-Mr. Munroe's system is not perfect, mind you. As I alluded to earlier, anytime a password is memorable, it is generally crackable, and hackers read xkcd, too. Passwords crackers can leverage a technique called 'combinator attacks', which allows them to combine words from multiple dictionaries into a single, long passwords. 
+Mr. Munroe's system is not perfect, mind you. As I alluded to earlier, anytime a password is memorable, it is generally crackable, and hackers read xkcd, too. Passwords crackers can leverage a technique called 'combinator attacks', which allows them to combine words from multiple dictionaries into a single, long password. 
 
 Ultimately, while the search space for passwords in Mr Munroe's method is pretty good (about 10^16 passwords, if you assume 10,000 common English words), it's not great. If you like this scheme, and wish to use it seriously, I would recommend increasing the complexity of the passwords slightly. For instance, capitalize some of the letters, but do so randomly; capitals at the start of words is so passe, and easily guessed. Add some special characters, but in the middle of words, and especially not at the start or the end, and so on. If you want to add numbers, don't make common substitutions, like cow -> c0w.
 
