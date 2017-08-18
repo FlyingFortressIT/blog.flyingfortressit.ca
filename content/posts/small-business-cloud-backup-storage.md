@@ -47,7 +47,7 @@ This is a non-exhaustive list, of course, but covers many of the most common use
 
 ## Cloud storage as Other-People's-Disks
 
-When a cloud storage journey first begins, it is usually due to the need for off-site backup and the requirement that the disks simply be located somewhere else, with no specific requirements on geographic or political jurisdiction. Taking this requirement and evaluating various services' pricing models, there's a pretty significant range in the cost to store data with different providers.
+When a cloud storage journey first begins, it is usually due to the need for off-site backup and the requirement that the disks simply be located somewhere else, with no specific requirements on geographic or political jurisdiction. Taking this requirement and evaluating various services' pricing models, there is a pretty significant range in the cost to store data with different providers.
 
 For illustration, I will give approximate monthly costs to store 10TB of data in each of several popular providers, and where a provider has multiple options I will choose the least expensive options that provides 'instant' (a time-to-first-byte of seconds or minutes) access to any part of the data.
 
@@ -63,11 +63,11 @@ For illustration, I will give approximate monthly costs to store 10TB of data in
 
 Recall that the only requirement is that the data is stored durably in an off-site location, and for this service we can pay anywhere from 5USD per month to 125USD per month (there are more expensive providers, but I have not included them). Only a small part of this variance can be explained by differences in durability (multi-region vs multi-datacentre vs single-datacentre) or retrieval options (API vs installed/web application).
 
-Remember when I said earlier that when you are choosing a storage provider, you're choosing an ecosystem? Now is a good time to talk about that as it will help explain the rest of the price variance.
+Remember when I said earlier that when you are choosing a storage provider, you are choosing an ecosystem? Now is a good time to talk about that as it will help explain the rest of the price variance.
 
 > <a href="https://onedrive.live.com/about/en-US/plans/" target="_blank">Note</a> that for OneDrive, data beyond 5TB per user requires a request made to Microsoft.
 
-## It's more than just the data
+## It is more than just the data
 
 Let's take the least expensive option on the list, the Backblaze Computer Backup option for businesses, priced at 4.17USD per month (50USD per computer per year) for unlimited backed up data. This gets you an application (for Windows and Mac) for automating backups, shipped hard drive/thumb drive for larger restores (for additional cost), and a web application for restoring your data.
 
