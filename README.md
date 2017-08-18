@@ -32,6 +32,7 @@ Posts are formatted with Markdown formatting, except for the front matter which 
 title: "A sample post"
 date: 2017-08-13T14:03:48-05:00
 author: Logan Smith
+description: "This is a short description that will be used in header meta tags, including the og:description OpenGraph tag."
 categories:
   - Sample
   - Hugo

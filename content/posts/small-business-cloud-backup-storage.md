@@ -2,6 +2,7 @@
 title: "Small Business Cloud - Backup Storage"
 date: 2017-08-17T09:09:34-05:00
 author: Mike Himbeault
+description: "Selecting cloud storage providers for backup or other uses is a task that seems harder than it should be, with too many options that are too similar. Here are a few ways to think about the problem that should help you make the best decision for your needs."
 categories:
   - Cloud
   - Storage

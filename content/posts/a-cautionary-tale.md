@@ -3,6 +3,7 @@ title: "It's not all rainbows, but there's always a silver lining"
 subtitle: Get it, cloud jokes?
 date: 2017-08-13T14:03:48-05:00
 author: Mike Himbeault
+description: "Debugging software is tricky, and spontaneous failures can be confusing. This is a tale from the trenches of debugging a problem caused by technical debt we didn't know we were accruing."
 categories:
   - Cloud
   - AWS
