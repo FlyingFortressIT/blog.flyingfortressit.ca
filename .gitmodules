@@ -1,3 +1,4 @@
 [submodule "themes/hugo-redlounge"]
 	path = themes/hugo-redlounge
 	url = https://github.com/FlyingFortressIT/hugo-redlounge.git
+	branch = master
