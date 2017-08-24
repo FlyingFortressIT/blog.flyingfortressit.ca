@@ -1,7 +1,7 @@
 ---
 title: "All About Passwords Part 2"
 subtitle: Passwords Safes
-dscription: "How Password Safes can improve our security and make life easier, too."
+description: "How Password Safes can improve our security and make life easier, too."
 date: 2017-08-24T19:44:17-05:00
 author: Travis Friesen
 categories:
