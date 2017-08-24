@@ -46,7 +46,7 @@ Some people also worry that online password safes may be compromised by a hacker
 
 However, it's not enough to just obtain a copy of the vault. Remember that it is stored encrypted, and the designers of online password safes have done their homework. The encryption used by online password safes is considered very strong; it is inconceivable that someone would be able to break the encryption, provided a good master password was used.
 
-![Inconceivable](https://imgflip.com/i/1unr3b.jpg)
+![Inconceivable](https://i.imgflip.com/1unr3b.jpg)
 
 On top of that, the operators of the online passwords don't store (a usable form of) your master password anywhere. Even if an attacker compromised Lastpass.com or Dashlane.com from top to bottom, he or she would not get a copy of your master password, and so your safe would be... uh... safe. For login purposes, they do keep a copy of your master password in a hashed or encrypted format, but it can't be used for unencrypting your safe, and it is equally difficult to get the plain version of the master password from its hashed form.
 
