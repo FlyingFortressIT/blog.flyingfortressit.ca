@@ -1,6 +1,7 @@
 ---
 title: "All About Passwords Part 2"
 subtitle: Passwords Safes
+dscription: "How Password Safes can improve our security and make life easier, too."
 date: 2017-08-24T19:44:17-05:00
 author: Travis Friesen
 categories:
@@ -38,13 +39,13 @@ Both online and offline safes have advantages and disadvantages. Online safes sy
 
 The security of the safe is only as good as the master password used to encrypt it, so be sure to make it a good one. Use my [previous guide](https://blog.flyingfortressit.ca/posts/passwords-1.html) for help in choosing a strong one. If someone can guess this password, they'll have everything!
 
-In fact, when I first started using password safes, it bothered me a little that I know had put all my passwords in one place. If a hacker could get access to my safe or vault, he or she would have **all** of my passwords for **all** of my accounts! 
+In fact, when I first started using password safes, it bothered me a little that I now had put all my passwords in one place. If a hacker could get access to my safe or vault, he or she would have **all** of my passwords for **all** of my accounts! 
 
 The concern is not entirely unfounded. However, you have to keep in mind **how** an attacker might gain access to my vault. He or she would need both the vault (stored either online or on my harddrive) and my encryption key. The only reliable way to get both of those things is to compromise my local PC. He or she would then make a copy of my vault, and perhaps use keyboard logging to steal my master password. This seems quite conceivable, which would suggest that password safes are actually **less** secure than just remembering passwords instead, but remember: if an attacker gains access to your local computer, he or she will be able to get your passwords and account information anyway, with or without a password safe, either by stealing browser tokens or using a key logger. It may just take him or her a bit a longer. So it doesn't really reduce your security.
 
 Some people also worry that online password safes may be compromised by a hacker attacking the online side of the password safe. Through the website, for instance, an attacker may gain access to the safes and account information stored there. We have seen attackers do just that on many high-profile sites, including [LinkedIn](https://leakedsource.ru/blog/linkedin) and [MySpace](https://leakedsource.ru/blog/myspace).
 
-However, it's not enough to just obtain a copy of the vault. Remember that it is stored encrypted, and the designers of online password safes have done their homework. The encryption used by online password safes is considered very strong; it is inconceivable that someone would be able to break the encryption, provided a good master password was used.
+However, it's not enough to just obtain a copy of the vault. Remember that it is stored encrypted, and the designers of online password safes have [done their homework](https://1password.com/teams/white-paper/1Password%20for%20Teams%20White%20Paper.pdf). The encryption used by online password safes is considered very strong; it is inconceivable that someone would be able to break the encryption, provided a good master password was used.
 
 ![Inconceivable](https://i.imgflip.com/1unr3b.jpg)
 
