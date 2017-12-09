@@ -3,15 +3,13 @@ title: "AWS Certifications"
 subtitle: "Drinking the orange Kool-Aid"
 date: 2017-12-08T09:00:00-06:00
 author: Mike Himbeault
-description: "Experiences preparing for and writing three AWS certifications, and comparing the resulting benefits to my experiences with academia during my two degrees."
+description: "My experience preparing for and writing three AWS certifications, and the value I feel they have had for my professional abilities."
 categories:
   - AWS
   - Certification
-# tags:
-#   - 
 ---
 
-After two years immersed as a software developer and infrastructure architect focusing on AWS solutions and public cloud architecture in general, I felt it was time to sit down and write a few AWS certification exams. These are my thoughts on the certifications, exams, preparation, and value of tem after the fact.
+After two years immersed as a principal software developer and infrastructure architect focusing on AWS solutions and public cloud architecture in general, I felt it was time to sit down and write a few AWS certification exams. These are my thoughts on the certifications, exams, preparation, and value of them after the fact.
 
 <!--more-->
 
@@ -23,7 +21,7 @@ I started considering writing my AWS exams, shooting for the Solutions Architect
 
 ## Beginning preparations
 
-Fast forward a little bit to February 2017 when I signed up for Linux Academy as a way to begin preparing to write the exams. A couple days into the free trial I found that I was really enjoying the content, and jumped onto an annual subscription. So far I have watched hundreds of videos on a variety of technical topics, and have found the content generally high quality, and the videos are well suited to me listening to the audio on the drive to and from work every day.
+Fast forward a little bit to February 2017 when I signed up for Linux Academy as a way to begin preparing to write the exams. A couple days into the free trial I found that I was really enjoying the content, and jumped onto an annual subscription. So far I have watched hundreds of videos on a variety of technical topics, and have found the content generally high quality, and the videos are well suited to my listening to the audio on the drive to and from work every day.
 
 Over the course of several months, I completed the courses for the Developer Associate, Solutions Architect Associate, Solutions Architect Professional, as well as a variety of accessory AWS video courses. These videos gave me ideas for small projects I would tackle with new services or products in order to familiarize myself with them in more detail.
 
